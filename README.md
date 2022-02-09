@@ -17,8 +17,8 @@ The Conclusion Summary
 
      In order to bring more equilibrium amongst fares, my three recommendations are:
      
-1.	Develop a long-term marketing campaign to increase Suburban and Rural ridership
+          1.	Develop a long-term marketing campaign to increase Suburban and Rural ridership
 
-2.	Capitalize on seasonal trends by sending Urban drivers to Suburban and Rural areas during Urban dips during mid to late January and May
+          2.	Capitalize on seasonal trends by sending Urban drivers to Suburban and Rural areas during Urban dips during mid to late January and May
 
-3.	Incentivize Urban drivers to pick up more Suburban and Rural riders
+          3.	Incentivize Urban drivers to pick up more Suburban and Rural riders
