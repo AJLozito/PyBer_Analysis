@@ -19,6 +19,6 @@ The Conclusion Summary
      
           1.	Develop a long-term marketing campaign to increase Suburban and Rural ridership
 
-          2.	Capitalize on seasonal trends by sending Urban drivers to Suburban and Rural areas during Urban dips during mid to late January and May
+          2.	Capitalize on seasonal trends by sending Urban drivers to Suburban and Rural areas when the Urban ridership dips during mid to late January and May
 
           3.	Incentivize Urban drivers to pick up more Suburban and Rural riders
