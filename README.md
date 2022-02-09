@@ -1,6 +1,7 @@
 The PyBer Project
 
 
+
 The Challenge
 
      The purpose of this project was to identify business opportunities at PyBer (a ride sharing company). To accomplish this goal, data was grouped by city type in order to illustrate trends.
